@@ -1,4 +1,3 @@
-#labels Featured
 ==Introduction==
 
 usb_termometer is a small program to retrieve temperature and humidity from
